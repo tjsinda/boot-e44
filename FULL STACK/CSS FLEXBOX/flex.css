@@ -1,0 +1,58 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+ .parent{
+   height: 40px;
+   display:flex;
+   gap: 100px;
+   padding-left: 300px;
+   padding-right: 300px;
+   padding-top: 20px;
+   
+
+ }
+.parent2{
+  height: 40px;
+  color: blue;
+  display:flex;
+  font-size:medium;
+  text-decoration:underline;
+  gap: 40px;
+  padding-left: 200px;
+  padding-top: 20px; 
+}
+.container{
+    display: flex;
+    background-color:rgb(249, 247, 246);
+    padding-top:60px ;
+    padding-left: 50px;
+    padding-right:50 px ;
+  
+  
+
+}
+.cards{
+  background-color: white;
+  width: 250px;
+  height: 400px;
+  margin: 5px;
+  border-radius:15px
+
+}
+.cards img{
+  background-color:rgb(209, 204, 204);
+  height: 140px;
+
+}
+
+
+.button{
+  color: rgb(249, 249, 255);
+  background-color: blue;
+}
+.p{
+  padding-left: 4px;
+  padding-right: 5px;
+}
